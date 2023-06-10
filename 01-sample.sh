@@ -1,4 +1,4 @@
-uptime -lsb_release -a
+uptime -s
 pwd
 ls
 whoami
